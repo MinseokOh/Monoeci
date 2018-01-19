@@ -58,7 +58,7 @@ function xmcc_update() {
 }
 
 function xmcc_conf() {
-	echo "~/.monoeciCore/monoeci.conf"
+	echo "$HOME/.monoeciCore/monoeci.conf"
 }
 
 COMMAND=$1
